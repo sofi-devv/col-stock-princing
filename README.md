@@ -1,4 +1,13 @@
-# Stock Trend Analysis for Ecopetrol
+# Stock Trend Analysis for Ecopetrol📈
+## Team Members
+
+- Santiago Moreno
+- Juan David Lopez
+- Paula Sofía Torres
+- Mauricio Rodriguez
+- Sofia Catalina Galindo
+
+*From Pontificia Universidad Javeriana*
 
 ## Objective
 
